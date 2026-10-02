@@ -20,8 +20,11 @@ Output: Voxel-wise segmentation of pediatric high-grade glioma subregions, which
 **Data Set:**
 
 Name: BraTS-PEDs - The Brain Tumor Segmentation in Pediatric Magnetic Resonance Imaging 
+
 Source: The Cancer Imaging Archive (TCIA)
+
 Subjects: 457
+
 Dataset Size: 32.7 GB
 
 **Link to Data Set:** [TCIA BraTS-PEDs Collection](https://www.cancerimagingarchive.net/collection/brats-peds/)
