@@ -14,6 +14,7 @@ Our project therefore focuses on the automated 3D image segmentation of paediatr
 Multi-class 3D Image Segmentation
 
 Input: Multiparametric brain MRI (T1, contrast-enhanced T1, T2, and T2-FLAIR).  
+
 Output: Voxel-wise segmentation of pediatric high-grade glioma subregions, which include enhancing tumor (ET), non-enhancing tumor (NET), cystic component (CC), and peritumoral edema (ED)
 
 **Data Set:**
