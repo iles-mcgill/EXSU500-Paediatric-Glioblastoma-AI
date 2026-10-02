@@ -18,6 +18,7 @@ Input: Multiparametric brain MRI (T1, contrast-enhanced T1, T2, and T2-FLAIR).
 Output: Voxel-wise segmentation of pediatric high-grade glioma subregions, which include enhancing tumor (ET), non-enhancing tumor (NET), cystic component (CC), and peritumoral edema (ED)
 
 **Data Set:**
+
 Name: BraTS-PEDs - The Brain Tumor Segmentation in Pediatric Magnetic Resonance Imaging 
 Source: The Cancer Imaging Archive (TCIA)
 Subjects: 457
