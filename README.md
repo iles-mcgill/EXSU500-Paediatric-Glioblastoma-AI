@@ -1,4 +1,4 @@
-# EXSU500-Pediatric-Glioblastoma-AI
+# EXSU500-Paediatric-Glioblastoma-AI
 3D image segmentation of pediatric high-grade gliomas for neurosurgical navigation.
 
 **Team Members:** Steven Gill, Iles Ousmer, Ansar Tlemussov, Itzel Priscilla Aguilar Valdez
